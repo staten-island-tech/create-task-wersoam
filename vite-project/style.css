@@ -9,3 +9,11 @@ h2,p{
   float: right;
   padding-right: 1500px;
 }
+.head{
+  text-align: center;
+  /* background-color: rgb(255, 255, 255); */
+  padding: 0px;
+}
+#inputs{
+  float: right;
+}

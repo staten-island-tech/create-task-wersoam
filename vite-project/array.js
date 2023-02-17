@@ -45,14 +45,14 @@ const array = [
     name: "kamen rider W",
     time: "heisei",
     episodes: "49",
-    picture: "",
+    picture: "picture/W.jpg",
     year: "2009-2010",
   },
   {
     name: "kamen rider zero-one",
     time: "reiwa",
     episodes: "45",
-    picture: "",
+    picture: "picture/Zero one.png",
     year: "2019-2020",
   },
   {
