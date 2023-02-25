@@ -1,19 +1,41 @@
 body {
   background-color: #d2d2d2;
 }
-img { 
-  width: 400px;
-  height: 500px;
+.dom{
+  display: flex;
+ display:inline-block;
+ 
 }
-h2,p{
-  float: right;
-  padding-right: 1500px;
+.img{
+  height: 400px;
+  width: 300px;
+}
+.insert{
+  padding-right: 28rem;
+  text-align: center;
+  height: 200px;
+}
+.almighty{
+padding-left: 45rem;
+padding-right: 15rem;
+margin-top: -10rem;
 }
 .head{
   text-align: center;
   /* background-color: rgb(255, 255, 255); */
   padding: 0px;
 }
-#inputs{
+#text-inputs{
   float: right;
 }
+.era{
+  background-color: #f1f1f1;
+  color: rgb(62, 62, 62);
+font-size: 20px;
+border: aquamarine;
+border-radius: 12px;
+transition-duration: 0.5s ;
+ }
+ .era:hover {
+  transform: translateY(-2px);
+  box-shadow: 2px 10px 5px rgba(173, 173, 173, 0.2);}

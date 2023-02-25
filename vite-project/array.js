@@ -59,8 +59,9 @@ const array = [
     name: "kamen rider revice",
     time: "reiwa",
     episodes: "50",
-    picture: "",
+    picture: "picture/revice.png",
     year: "2021-2022",
+    desc: "In 1971, a scientific expedition in Latin America had uncovered an ancient artifact containing the remains of the demon Giff, leading to the creation of the Vistamps. In the present day, the remains of Giff now lie in the hands of a demon cult called the Deadmans, who seek to resurrect him by converting peoples' inner demons into their fold. Fenix, a governmental organization opposing the Deadmans, have developed the Revice Driver for someone with complete control over their inner demon. Ikki Igarashi, a young man who runs a public bath with his family, comes into acquisition of the belt while forming a contract with his inner demon Vice. Together, as Kamen Rider Revi and Vice, they are Kamen Rider Revice!",
   },
   {
     name: "ultraman decker",
