@@ -14,25 +14,26 @@ body {
   padding-right: 28rem;
   text-align: center;
   height: 200px;
+  margin-top: 5rem;
 }
 .almighty{
-padding-left: 45rem;
-padding-right: 15rem;
+padding-left: 56rem;
+padding-right: 34rem;
 margin-top: -10rem;
 }
 .head{
   text-align: center;
-  /* background-color: rgb(255, 255, 255); */
+  background-color: rgb(255, 255, 255); 
   padding: 0px;
 }
 #text-inputs{
   float: right;
 }
-.era{
+.period{
   background-color: #f1f1f1;
   color: rgb(62, 62, 62);
 font-size: 20px;
-border: aquamarine;
+border: none;
 border-radius: 12px;
 transition-duration: 0.5s ;
  }

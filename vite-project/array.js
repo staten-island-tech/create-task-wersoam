@@ -5,6 +5,7 @@ const array = [
     episodes: "45",
     picture: "picture/ex aid.png",
     year: "2016-2017",
+    desc: "5 years ago, a new type of virus, named the Bugster Virus, infected humanity and turning them into a creature called a Bugster. In the present day, an intern and also a genius gamer, Emu Hojo receives the Gamer Driver and the Mighty Action X Gashat to transform into Kamen Rider Ex-Aid. Along with several doctor Riders, Emu must compete to save people from the Bugster Virus and become the super doctor who'll save humanity! GAME START!",
   },
   {
     name: "kamen rider build",
@@ -12,6 +13,7 @@ const array = [
     episodes: "49",
     picture: "picture/Build_Poster.png",
     year: "2017-2018",
+    desc: "10 years ago, the “Pandora Box” was found on Mars. On Earth, it created walls that divided Japan into Touto, Hokuto and Seito and brought along the Smash, unidentified life forms that attack people. Sento Kiryu, prodigy physicist and amnesiac, transforms into Kamen Rider Build to fight the Smash. However, there is one mystery not even Sento can solve: his own past. The only memory he has left of more than 20 years is the existence of a sinister figure called, Knight Rogue. There is one man who holds the key to Sento's memories. A prison escapee by the name of Ryuga Banjo, who adamantly denies committing the murder he is accused of. Misora Isurugi who works with Sento, has the ability to purify the harmful components the Smash are made of. Sento transforms into Kamen Rider Build in order to uncover the mystery surrounding the Pandora Box, the Smash and his amnesia.",
   },
   {
     name: "ultraman dyna",
