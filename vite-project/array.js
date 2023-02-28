@@ -13,7 +13,7 @@ const array = [
     episodes: "49",
     picture: "picture/Build_Poster.png",
     year: "2017-2018",
-    desc: "10 years ago, the “Pandora Box” was found on Mars. On Earth, it created walls that divided Japan into Touto, Hokuto and Seito and brought along the Smash, unidentified life forms that attack people. Sento Kiryu, prodigy physicist and amnesiac, transforms into Kamen Rider Build to fight the Smash. However, there is one mystery not even Sento can solve: his own past. The only memory he has left of more than 20 years is the existence of a sinister figure called, Knight Rogue. There is one man who holds the key to Sento's memories. A prison escapee by the name of Ryuga Banjo, who adamantly denies committing the murder he is accused of. Misora Isurugi who works with Sento, has the ability to purify the harmful components the Smash are made of. Sento transforms into Kamen Rider Build in order to uncover the mystery surrounding the Pandora Box, the Smash and his amnesia.",
+    desc: "10 years ago, the “Pandora Box” was found on Mars. On Earth, it created walls that divided Japan into Touto, Hokuto and Seito and brought along the Smash, unidentified life forms that attack people. Sento Kiryu, prodigy physicist and amnesiac, transforms into Kamen Rider Build to fight the Smash. However, there is one mystery not even Sento can solve: his own past. The only memory he has left of more than 20 years is the existence of a sinister figure called, night Rogue. There is one man who holds the key to Sento's memories. A prison escapee by the name of Ryuga Banjo, who adamantly denies committing the murder he is accused of. Sento transforms into Kamen Rider Build in order to uncover the mystery surrounding the Pandora Box, the Smash and his amnesia.",
   },
   {
     name: "ultraman dyna",
@@ -21,6 +21,7 @@ const array = [
     episodes: "51",
     picture: "picture/dyna.png",
     year: "1997-1998",
+    desc: "In the year AD 2017, TPC has advanced beyond Earth and has created a new GUTS team, Super GUTS. Humans have begun terra-forming Mars and other planets in what is known as the Age of the Neo Frontier. One day, however, the Neo Frontier is attacked by an alien race known as the Spheres. Shin Asuka has just joined Super GUTS and is in the middle of training above Earth's atmosphere when he and his comrades are attacked. his ship is damaged, and he ejects, after which he encounters a shining light. A new giant of light merges with the bewildered Asuka, saving his life. When the Spheres enter Mars and merge with the Martian rocks to form monsters, Asuka, now equipped with a mysterious device known as the Reflasher.Now with this new power, Asuka strives to protect the lives against the spheres as the giant of light, Ultraman Dyna.",
   },
   {
     name: "Dekaranger",
@@ -28,6 +29,7 @@ const array = [
     episodes: "49",
     picture: "picture/dekaranger.png",
     year: "2004-2005",
+    desc: "The newly recruited Banban Akaza arrives on Earth where he is transferred to the S.P.D. (Special Police Dekaranger) Earth branch located in the city of Megalopolis. Just when Banban is getting settled into his police unit,Agent Abrella, an Alienizer arms dealer, turns his destructive attention to Earth, helping the criminals there cause havoc. It's up to the Dekarangers to stop them and bring them to justice.",
   },
   {
     name: "Shinkenger",
@@ -35,6 +37,7 @@ const array = [
     episodes: "49",
     picture: "picture/shinkenger.jpg",
     year: "2009-2010",
+    desc: "For eighteen generations, samurai of the Shiba Clan have suppressed the evil intentions of the Gedoushu, malevolent spirits that enter the world of the living from gaps between buildings and other structures. Now, Takeru Shiba, the youngest head of the Shiba Clan must gather his four vassals in order to battle the Gedoushu under the revived Doukoku Chimatsuri as the Shinkengers",
   },
   {
     name: "ultraman orb",
@@ -42,6 +45,7 @@ const array = [
     episodes: "25",
     picture: "picture/orb.jpg",
     year: "2016",
+    desc: "A long time ago, the Earth was plagued by the Demon King Beasts, monsters that wreaked havoc across the globe until the Ultra Warriors sealed them. Time passes and to protect the Earth from the revival of Demon King Beasts, a warrior of light, Ultraman Orb descended from beyond the galaxy, taking the form of young traveler Gai Kurenai. In order to defeat the resurrected Demon King Beasts, Gai utilizes the Orb Ring and a pair of Ultra Fusion Cards and takes on a multitude of forms to combat the enemy.",
   },
   {
     name: "kamen rider W",
