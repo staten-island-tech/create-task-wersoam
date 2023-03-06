@@ -5,7 +5,7 @@ const array = [
     episodes: "45",
     picture: "picture/ex aid.png",
     year: "2016-2017",
-    desc: "5 years ago, a new type of virus, named the Bugster Virus, infected humanity and turning them into a creature called a Bugster. In the present day, an intern and also a genius gamer, Emu Hojo receives the Gamer Driver and the Mighty Action X Gashat to transform into Kamen Rider Ex-Aid. Along with several doctor Riders, Emu must compete to save people from the Bugster Virus and become the super doctor who'll save humanity! GAME START!",
+    desc: "5 years ago, a new type of virus, named the Bugster Virus, infected humanity and turning them into a creature called a Bugster. To combat this, the Japanese Ministry of Heath worked with the gaming company Genm Corp. to form CR, a team of young doctors with the ability to transform into Kamen Riders that can effectively eliminate Bugsters. In the present day, an intern and also genius gamer, Emu Hojo receives the Gamer Driver and the Mighty Action X Gashat to transform into Kamen Rider Ex-Aid. Along with several doctor Riders, Emu must compete to save people from the Bugster Virus and become the super doctor who'll save humanity! GAME START!",
   },
   {
     name: "kamen rider build",
@@ -13,7 +13,7 @@ const array = [
     episodes: "49",
     picture: "picture/Build_Poster.png",
     year: "2017-2018",
-    desc: "10 years ago, the “Pandora Box” was found on Mars. On Earth, it created walls that divided Japan into Touto, Hokuto and Seito and brought along the Smash, unidentified life forms that attack people. Sento Kiryu, prodigy physicist and amnesiac, transforms into Kamen Rider Build to fight the Smash. However, there is one mystery not even Sento can solve: his own past. The only memory he has left of more than 20 years is the existence of a sinister figure called, night Rogue. There is one man who holds the key to Sento's memories. A prison escapee by the name of Ryuga Banjo, who adamantly denies committing the murder he is accused of. Sento transforms into Kamen Rider Build in order to uncover the mystery surrounding the Pandora Box, the Smash and his amnesia.",
+    desc: "10 years ago, the “Pandora Box” was found on Mars. On Earth, it created walls that divided Japan into Touto, Hokuto and Seito and brought along the Smash, unidentified life forms that attack people. Sento Kiryu, genius physicist and amnesiac, transforms into Kamen Rider Build to fight the Smash. There is one man who holds the key to Sento's memories. A prison escapee named Ryuga Banjo, who adamantly denies committing the murder he is accused of. By following the only memory he has left, the existence of a figure called night Rogue, Now Sento transforms into Kamen Rider Build in order to uncover the mystery surrounding the Pandora Box, the Smash, and his amnesia.",
   },
   {
     name: "ultraman dyna",
@@ -21,7 +21,7 @@ const array = [
     episodes: "51",
     picture: "picture/dyna.png",
     year: "1997-1998",
-    desc: "In the year AD 2017, TPC has advanced beyond Earth and has created a new GUTS team, Super GUTS. Humans have begun terra-forming Mars and other planets in what is known as the Age of the Neo Frontier. One day, however, the Neo Frontier is attacked by an alien race known as the Spheres. Shin Asuka has just joined Super GUTS and is in the middle of training above Earth's atmosphere when he and his comrades are attacked. his ship is damaged, and he ejects, after which he encounters a shining light. A new giant of light merges with the bewildered Asuka, saving his life. When the Spheres enter Mars and merge with the Martian rocks to form monsters, Asuka, now equipped with a mysterious device known as the Reflasher.Now with this new power, Asuka strives to protect the lives against the spheres as the giant of light, Ultraman Dyna.",
+    desc: "In 2017 AD,the Age of the Neo Frontier, TPC has advanced beyond Earth. Humans have now begun settling on Mars and other planets. One day, the Neo Frontier is attacked by an alien race known as the Spheres. Shin Asuka has just joined Super GUTS and is in the middle of training when he and his comrades are attacked. his ship is damaged, and he encounters a shining light. A new giant of light merges with Asuka, saving his life. When the Spheres enter Mars and merge with the Martian rocks to form monsters, now equipped with a mysterious device known as the Reflasher, Asuka strives to protect the lives against the spheres as the giant of light, Ultraman Dyna.",
   },
   {
     name: "Dekaranger",
@@ -29,7 +29,7 @@ const array = [
     episodes: "49",
     picture: "picture/dekaranger.png",
     year: "2004-2005",
-    desc: "The newly recruited Banban Akaza arrives on Earth where he is transferred to the S.P.D. (Special Police Dekaranger) Earth branch located in the city of Megalopolis. Just when Banban is getting settled into his police unit,Agent Abrella, an Alienizer arms dealer, turns his destructive attention to Earth, helping the criminals there cause havoc. It's up to the Dekarangers to stop them and bring them to justice.",
+    desc: "The year is 2004 and universe has come together where aliens from many different planets coincide in peace. The newly recruited Banban Akaza arrives on Earth where he is transferred to the S.P.D. (Special Police Dekaranger) Earth branch located in the city of Megalopolis. Just when Banban is getting settled into his police unit, Agent Abrella, an Alienizer arms dealer, turns his destructive attention to Earth, helping the criminals there to cause havoc. It's up to the Dekarangers to stop them and bring them to justice.",
   },
   {
     name: "Shinkenger",
@@ -37,7 +37,7 @@ const array = [
     episodes: "49",
     picture: "picture/shinkenger.jpg",
     year: "2009-2010",
-    desc: "For eighteen generations, samurai of the Shiba Clan have suppressed the evil intentions of the Gedoushu, malevolent spirits that enter the world of the living from gaps between buildings and other structures. Now, Takeru Shiba, the youngest head of the Shiba Clan must gather his four vassals in order to battle the Gedoushu under the revived Doukoku Chimatsuri as the Shinkengers",
+    desc: "There has been a war between humanity and the Gedoshu, creatures who from the underworld. The Emperor of Japan ordained five clans of samurai to fight against the threat. These samurai possess the abilities of Mojikara, which allow for them to manipulate kanji to draw upon abilities. For 17 generations, the war between the Shinkenger and Ayakashi continued until a massive sacrifice stopped the Gedoshu. years later, the Gedoshu begins their attacks again. Takeru Shiba, the 18th Shiba Clan leader, must gather his retainers to fight back against the threat and protect the world. A dark secret cloud over the Shinkenger as this generation faces the toughest threat from the Gedoshu yet.",
   },
   {
     name: "ultraman orb",
@@ -45,7 +45,7 @@ const array = [
     episodes: "25",
     picture: "picture/orb.jpg",
     year: "2016",
-    desc: "A long time ago, the Earth was plagued by the Demon King Beasts, monsters that wreaked havoc across the globe until the Ultra Warriors sealed them. Time passes and to protect the Earth from the revival of Demon King Beasts, a warrior of light, Ultraman Orb descended from beyond the galaxy, taking the form of young traveler Gai Kurenai. In order to defeat the resurrected Demon King Beasts, Gai utilizes the Orb Ring and a pair of Ultra Fusion Cards and takes on a multitude of forms to combat the enemy.",
+    desc: "Naomi Yumeno has had the same dream since she was young: a shining giant of light battling a giant monster. Inspired, she starts a paranormal tracking website called “Something Search People” with her friends. One day the trio are looking into a mysterious animal suspected of causing strange meteorological activity. They head towards the center of the strange weather and encounter the Lord Monster of wind, Maga-Basser! Naomi is blasted by the winds but rescued by a vagabond, Gai Kurenai. Using his Orb Ring to read the power of previous Ultras, Gai can transforms into a warrior of light from a distant galaxy, Ultraman Orb! Thus begins a series of intense battles between Ultraman Orb and the Lord Monsters.",
   },
   {
     name: "kamen rider W",
@@ -53,6 +53,7 @@ const array = [
     episodes: "49",
     picture: "picture/W.jpg",
     year: "2009-2010",
+    desc: "In the city of Futo where nearly everything is powered by windmills and the people live in harmony. mysterious devices resembling USB flash drives called Gaia Memories are sold to criminals and interested parties who use them to commit crimes as monsters called dopants. To make matters worse, the Gaia Memories carry a dangerous toxin that cause their users to go insane to the point where they could die from them. After the death of his boss, the self-proclaimed hard-boiled detective Shotaro Hidari works with the mysterious Philip, who possesses the true Gaia Memory, to investigate crimes which involve Dopants. Using their own Gaia Memories, Shotaro and Philip use the Doubledriver belts to transform and combine into Kamen Rider Double to fight the Dopant menace and keep Futo safe.",
   },
   {
     name: "kamen rider zero-one",
@@ -60,6 +61,7 @@ const array = [
     episodes: "45",
     picture: "picture/Zero one.png",
     year: "2019-2020",
+    desc: "Humagear, created by the leading company for A.I., Hiden Intelligence, serve humanity's every convenience. But a cyber-terrorist organization begins hacking the Humagears in a conspiracy that turns them into monsters. Aruto Hiden has taken over at Hiden Intelligence, and along with the CEO's post, he also takes over the responsibility for Kamen Rider Zero-One by using his company's technology. Aruto tries to keep the peaceful world between humans and Humagears with his Humagear secretary, while A.I.M.S., a military squad, pursues the terrorists![10]",
   },
   {
     name: "kamen rider revice",
@@ -75,6 +77,7 @@ const array = [
     episodes: "25",
     picture: "picture/Decker.png",
     year: "2022-2023",
+    desc: "After the events of ultraman trigger, Humanity turns its eyes to the stars and heads to space. It is in this time when Sphere, an invading swarm of mysterious space objects, begins to attack Earth. Humanity loses contact with space. Their attacks throws our hero Kanata Asumi's peaceful life into chaos. Kanata pledges to protect humanity's daily life and jumps in front of the enemy to attack and is absorbed. however, at that moment Kanata discovered the light of Decker within himself and transforms. Afterwards Kanata  joins the expert team GUTS-Select to fight against the spheres. As its newest member, Kanata and his young unseasoned team stand against these great enemies, together.",
   },
   {
     name: "ultraman taiga",
@@ -82,6 +85,7 @@ const array = [
     episodes: "26",
     picture: "picture/taiga.png",
     year: "2019-2019",
+    desc: "Aliens have been emigrating to Earth secretly, but only a handful knows about this truth. Living in such a society, the main character Hiroyuki Kudo begins working at a private security organization E.G.I.S. (Enterprise of Guard and Investigation Services). The organization takes care of cases related to aliens, and Hiroyuki works day and night to protect peace. However, there lies a huge secret in him, which he himself is not aware of. He carries Ultraman Taiga's “particle of light”. The new story begins as Taiga's powers revive from Hiroyuki's body!",
   },
   {
     name: "donbrothers",
@@ -89,6 +93,7 @@ const array = [
     episodes: "50",
     picture: "picture/donbros.png",
     year: "2022-2023",
+    desc: "Heroes unlike those you've ever seen before! These five are based on the Tale of Momotaro, as a dog, pheasant, monkey, and oni join together to fight. Using the Avataro Gears, they load an avatar to fight as they Avatar Change! They fight against the dreaded Oni, demons born from human desires, and the demonic organization that supports them, the Noto! When a high school student named Haruka Kito gets mysterious powers, she is told by a man named Jin Momoi that she must find his son, Taro Momoi, and swear loyalty to him! But what exactly does this all mean? And who are these mysterious allies he keeps mentioning she will find? The story of the Donbrothers will unravel as we journey into this wondrous festival together!!",
   },
   {
     name: "zenkaiger",
@@ -96,6 +101,7 @@ const array = [
     episodes: "49",
     picture: "picture/kikai.jpg",
     year: "2021-2022",
+    desc: "One month ago, a strange phenomenon suddenly fused the human world with the parallel world of Kikaitopia, who had previously conquered and sealed off various universes, including those of the previous 44 Super Sentai. Despite this, humans and Kikainoids quickly get along and live peacefully together. In the present, however, their lives are threatened by Kikaitopia's evil rulers, the Tozitend Dynasty, who seek to conquer all parallel worlds. To face this new threat, a brave and energetic young man named Kaito Goshikida inherits the powers of all previous Super Sentai. Transforming into Zenkaizer, he joins forces with the Kikainoids Juran, Gaon, Magine, and Vroon to save the multiverse from Tozitend and find Kaito's missing parents as the Zenkaigers.",
   },
 ];
 export { array };

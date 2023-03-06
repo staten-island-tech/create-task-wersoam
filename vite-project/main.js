@@ -86,6 +86,66 @@ const add = function () {
 
 `
     );
+  } else if (dom.input.value === "kamen rider zero-one") {
+    dom.image.insertAdjacentHTML(
+      "beforeend",
+      `
+<div class="insert">
+<img src="${array[7].picture}" alt="${array[7].name}" class="img"> </div>
+<div class="almighty"><h2>${array[7].name}</h2> <h3>${array[7].episodes} episodes</h3> <p>${array[7].desc}</p></div>
+
+`
+    );
+  } else if (dom.input.value === "kamen rider revice") {
+    dom.image.insertAdjacentHTML(
+      "beforeend",
+      `
+<div class="insert">
+<img src="${array[8].picture}" alt="${array[8].name}" class="img"> </div>
+<div class="almighty"><h2>${array[8].name}</h2> <h3>${array[8].episodes} episodes</h3> <p>${array[8].desc}</p></div>
+
+`
+    );
+  } else if (dom.input.value === "ultraman decker") {
+    dom.image.insertAdjacentHTML(
+      "beforeend",
+      `
+<div class="insert">
+<img src="${array[9].picture}" alt="${array[9].name}" class="img"> </div>
+<div class="almighty"><h2>${array[9].name}</h2> <h3>${array[9].episodes} episodes</h3> <p>${array[9].desc}</p></div>
+
+`
+    );
+  } else if (dom.input.value === "ultraman taiga") {
+    dom.image.insertAdjacentHTML(
+      "beforeend",
+      `
+<div class="insert">
+<img src="${array[10].picture}" alt="${array[10].name}" class="img"> </div>
+<div class="almighty"><h2>${array[10].name}</h2> <h3>${array[10].episodes} episodes</h3> <p>${array[10].desc}</p></div>
+
+`
+    );
+  } else if (dom.input.value === "donbrothers") {
+    dom.image.insertAdjacentHTML(
+      "beforeend",
+      `
+<div class="insert">
+<img src="${array[11].picture}" alt="${array[11].name}" class="img"> </div>
+<div class="almighty"><h2>${array[11].name}</h2> <h3>${array[11].episodes} episodes</h3> <p>${array[1].desc}</p></div>
+
+`
+    );
+  } else if (dom.input.value === "zenkaiger") {
+    dom.image.insertAdjacentHTML(
+      "beforeend",
+      `
+<div class="insert">
+<img src="${array[12].picture}" alt="${array[12].name}" class="img"> </div>
+<div class="almighty"><h2>${array[12].name}</h2> <h3>${array[12].episodes} episodes</h3> <p>${array[12].desc}</p></div>
+
+`
+    );
   } else {
     dom.image.insertAdjacentHTML(
       "beforeend",

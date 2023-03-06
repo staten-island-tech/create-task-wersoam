@@ -5,6 +5,7 @@ body {
   display: flex;
  display:inline-block;
  
+ 
 }
 .img{
   height: 400px;
@@ -15,16 +16,21 @@ body {
   text-align: center;
   height: 200px;
   margin-top: 5rem;
+  
 }
 .insert2{
-  padding-right: 28rem;
-  text-align: center;
+   padding: 45px; 
+text-align: center;
+padding-right: 500px;
   height: 200px;
+  
+
 }
 .almighty{
-padding-left: 56rem;
-padding-right: 34rem;
-margin-top: -10rem;
+padding-left: 700px;
+padding-right: 415px;
+margin-top: -15rem;
+text-align: center;
 }
 .head{
   text-align: center;
